@@ -1,3 +1,2 @@
 # spring-boot-java-docker
-Aplicação de teste com Spring Boot Java subindo no Docker com Mysql
-Criada para testes com o Docker.
+Aplicação para testes com o Docker utilizando SpringBoot com Java
